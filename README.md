@@ -46,3 +46,4 @@
 - **DataStore Preferences** (Сохранение настроек редактора и тем)
 - **JGit** (Локальные Git-операции)
 - **OkHttp** / **Retrofit** (Связь с API OpenCode AI)
+# CodeIDEandroid
